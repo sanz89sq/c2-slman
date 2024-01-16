@@ -1,0 +1,27 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobReward": "ca-app-pub-3940256099942544/5224354917",
+
+    "unityGameId": "5366494",
+
+     "personalnative": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native1.png",
+   "personaldirection": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalife.dressup.makeup",
+    "personalnative2": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native2.png",
+      "personaldirection2": "https://play.google.com/store/apps/details?id=com.SecurityBreach.fnaf.fivenightsatfreddys.horror",
+    "personalnative3": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native3.png",
+     "personaldirection3": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native2.png",
+    "personalnative4": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native4.png",
+    "personaldirection4": "https://play.google.com/store/apps/details?id=com.cartoonyltd.myangelahalloween",
+
+
+    "AppEtat": nosuspended,
+    "testMode": true,
+    "modeads": true,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "reviewActive": true
+  }
+}
