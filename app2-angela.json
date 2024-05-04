@@ -7,21 +7,21 @@
 
     "unityGameId": "5244016",
 
-    "personalnative": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native4.png",
-   "personaldirection": "https://play.google.com/store/apps/details?id=com.cartoonyltd.myangelahalloween",
-    "personalnative2": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native4.png",
-      "personaldirection2": "https://play.google.com/store/apps/details?id=com.cartoonyltd.myangelahalloween",
-    "personalnative3": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native3.png",
-     "personaldirection3": "https://play.google.com/store/apps/details?id=com.cartoonyltd.supercats",
-    "personalnative4": "https://raw.githubusercontent.com/sanz89sq/c1-mhmd/main/native4.png",
-    "personaldirection4": "https://play.google.com/store/apps/details?id=com.cartoonyltd.tocabocapets",
+   "personalnative": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native1.png",
+   "personaldirection": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
+    "personalnative2": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native2.png",
+      "personaldirection2": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
+    "personalnative3": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native3.png",
+     "personaldirection3": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
+    "personalnative4": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native4.png",
+    "personaldirection4": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
 
 
-    "AppEtat": suspended,
-    "testMode": true,
+    "AppEtat": nosuspended,
+    "testMode": false,
     "modeads": true,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-    "reviewActive": true
+    "reviewActive": false
   }
 }
